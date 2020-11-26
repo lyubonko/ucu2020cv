@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pycharm
+.idea
+
+# temp
+*_FULL*
+
+# datasets
+assignments/classification/data/cifar10
+assignments/classification/data/mnist
+
+# models
+*.pth*
+
+# experiments log files
+assignments/classification/experiments/*log*
