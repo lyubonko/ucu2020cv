@@ -21,4 +21,4 @@ materials for course "Deep Learning for Computer Vision"
     
 ## Homework description
 
-[WILL BE UPDATED](https://github.com/lyubonko/ucu2020cv/raw/master/assignments/2020_UCU_Deep_Learning_for_Computer_Vision_HOMEWORK.pdf)
+!!!WILL BE UPDATED!!! [homework](https://github.com/lyubonko/ucu2020cv/raw/master/assignments/2020_UCU_Deep_Learning_for_Computer_Vision_HOMEWORK.pdf)
