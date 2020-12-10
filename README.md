@@ -15,9 +15,16 @@ materials for course "Deep Learning for Computer Vision"
 2.  **CNNs in depth**
 
   - Lecture
-    - slides
+    - [slides](https://github.com/lyubonko/ucu2020cv/raw/master/lectures/lecture2_cnn.pdf)
   - Practice
     - [simple_net](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a2_simple_network.ipynb)    
+    
+3.  **Attention in CV**
+
+  - Lecture
+    - slides
+  - Practice
+    - [classification](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a3_cifar10.ipynb)     
     
 ## Homework description
 
