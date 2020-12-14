@@ -22,10 +22,16 @@ materials for course "Deep Learning for Computer Vision"
 3.  **Attention in CV**
 
   - Lecture
-    - slides
+    - [slides](https://github.com/lyubonko/ucu2020cv/raw/master/lectures/lecture3_attention.pdf)
   - Practice
     - [classification](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a3_cifar10.ipynb)     
-    
+
+4.  **Object Detection**
+
+  - Lecture
+    - [slides](https://github.com/lyubonko/ucu2020cv/raw/master/lectures/lecture4_detection.pdf)
+ 
+
 ## Homework description
 
-!!! WILL BE UPDATED !!! [homework](https://github.com/lyubonko/ucu2020cv/raw/master/assignments/2020_UCU_Deep_Learning_for_Computer_Vision_HOMEWORK.pdf)
+[homework](https://github.com/lyubonko/ucu2020cv/raw/master/assignments/2020_UCU_Deep_Learning_for_Computer_Vision_HOMEWORK.pdf)
